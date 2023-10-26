@@ -13,7 +13,10 @@ Bem-vindo ao meu perfil do GitHub! Eu sou um(a) Desenvolvedor Front-End. Aqui vo
 
 ## Estatísticas do GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioSiqueira01&show_icons=true&theme=dracula&count_private=true)](https://github.com/CaioSiqueira01)
+<div>
+    <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSiqueira01&show_icons=true&theme=radical"/>
+    <img  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaioSiqueira01&layout=compact&langs_count=8&theme=radical"/>  
+</div>
   
 ## Tecnologias
 
