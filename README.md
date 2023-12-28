@@ -6,9 +6,10 @@ Bem-vindo ao meu perfil do GitHub! Eu sou um(a) Desenvolvedor Front-End. Aqui vo
 
 ## Sobre Mim
 
-- 💻 Atualmente, estou procurando emprego como Desenvolvedor.
-- 📚 Estou cursando o 4º perído da graduação em Ciência da Computação e possuo 2 certificações em Desenvolvimento Full-Stack.
+- 💻 Atualmente, estou procurando emprego como Desenvolvedor Front-End Junior.
+- 📚 Estou cursando o 5º perído da graduação em Ciência da Computação e possuo 2 certificações em Desenvolvimento Full-Stack.
 - 📖 Além dos cursos de TI estou me especializando no inglês, atualmente possuo nível de fala e escrita intermediário.
+- :man_office_worker: Possuo boa comunicação e trabalho em equipe, sou uma pessoa proativa e sempre busco conhecimentos.
 - 🎷 Sou professor voluntário de Saxofone.
 
 ## Estatísticas do GitHub
@@ -17,7 +18,7 @@ Bem-vindo ao meu perfil do GitHub! Eu sou um(a) Desenvolvedor Front-End. Aqui vo
     <img  height="285em" src="https://github-readme-stats.vercel.app/api?username=CaioSiqueira01&show_icons=true&theme=radical"/>
     <img heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSiqueira01&show_icons=true&theme=tokyonight&count_private=true"/>
 </div>
-  
+ 
 ## Tecnologias
 
 <div align="center" valign="top"><br>
